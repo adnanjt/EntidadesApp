@@ -1,4 +1,3 @@
-// src/components/Sidebar.tsx
 import { NavLink } from "react-router-dom";
 import './Sidebar.css';
 import { FaHome, FaSearch, FaPlus } from 'react-icons/fa';
@@ -7,7 +6,7 @@ export const Sidebar = () => {
   return (
     <div className="sidebar">
       <div className="logo">
-        <img src="/logo-sb.png" alt="Logo SB" />
+        <img src="/logo-sb-footer.svg" alt="Logo SB" />
         <h1>Superintendencia<br />de Bancos</h1>
         <p>República Dominicana</p>
       </div>

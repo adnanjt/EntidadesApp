@@ -13,7 +13,7 @@ export const Layout = ({ children }: LayoutProps) => {
       <Sidebar />
       <div className="main-content">
         <header className="header">
-          <h2>Nombre de la página</h2>
+          <h2>Entidades Gubernamentales</h2>
         </header>
         <div className="page-content">
           {children}

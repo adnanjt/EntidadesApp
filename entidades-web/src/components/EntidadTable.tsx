@@ -48,7 +48,6 @@ export default function EntidadTable() {
 
   return (
     <Container>
-      <Typography variant="h4" gutterBottom>Entidades Gubernamentales</Typography>
       <Button variant="contained" onClick={() => { setSelected(null); setOpen(true); }}>Agregar Entidad</Button>
       <div style={{ height: 400, marginTop: 20 }}>
         <DataGrid rows={rows} columns={columns} loading={loading} getRowId={row => row.id} />
