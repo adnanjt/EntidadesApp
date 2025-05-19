@@ -1,0 +1,36 @@
+[
+  {
+    "Id": "2aa0579a-df7a-4aab-a178-1746db6fa32a",
+    "Nombre": "Nombre",
+    "Siglas": "ABC",
+    "TipoEntidad": null,
+    "Descripcion": "Descripcion",
+    "PaginaWeb": "wwww.asdad.com",
+    "Telefono": "8098887972",
+    "CorreoElectronico": "sample@test.com",
+    "Direccion": "Calle Falsa 123",
+    "Dependencia": "Otra entidad",
+    "Sector": null,
+    "Activo": true,
+    "FechaCreacion": "2025-05-18T18:38:11.557Z",
+    "FechaRegistro": "2025-05-18T14:48:00.2920744-04:00",
+    "FechaModificacion": null
+  },
+  {
+    "Id": "e0179054-9f00-4c22-a1c6-75bb56f0027d",
+    "Nombre": "Nombre",
+    "Siglas": "ABC",
+    "TipoEntidad": null,
+    "Descripcion": "Descripcion",
+    "PaginaWeb": "wwww.asdad.com",
+    "Telefono": "8098887972",
+    "CorreoElectronico": "sample@test.com",
+    "Direccion": "Calle Falsa 123",
+    "Dependencia": "Otra entidad",
+    "Sector": null,
+    "Activo": true,
+    "FechaCreacion": "2025-05-18T18:38:11.557Z",
+    "FechaRegistro": "2025-05-18T14:48:17.7272914-04:00",
+    "FechaModificacion": null
+  }
+]
